@@ -1,12 +1,11 @@
-# silver_animation_example
+# Silver Animation Example
 
-Silver Animation Example.
-
-## Getting Started
 
 The app is an example on CustomScrollView and SliverPersistentHeader.
 
  ![App](files/app-content.gif)
+
+## Getting Started
 
 A few resources to get you started if this is your first Flutter project:
 
